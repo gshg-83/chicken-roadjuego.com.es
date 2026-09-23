@@ -1,0 +1,11 @@
+name = "chicken-roadjuego-com-es"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=chicken-roadjuego.com.es"
+HMAC_KEY = "53e309185af1f31a7ca29590dbc94867f26865ee4b59998d1de146d0149e003b"
+COOKIE_NAME = "ug6"
+PLAY_PATH = "visit"
+BUTTON_ID = "p1ca6ffa0ff5a9d6af6ff1040d691a7f7"
+GATE_SALT = "9227aae1a052011a"
